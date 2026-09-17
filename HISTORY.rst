@@ -5,6 +5,7 @@ History
 X.Y.Z (DD-MM-YYYY)
 ------------------
 * Hoist ``build_selection`` local declarations to fix Cython 3.2 redeclaration errors (:pr:`229`)
+* Add support for PHASED_ARRAY subtable (:pr:`234`)
 
 0.5.4 (22-07-2026)
 ------------------
